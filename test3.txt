@@ -1,0 +1,10 @@
+0056.jpg;-28.072382184894217;7.8106092291022176;1.141996179194612;T2;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0056.jpg;S;N;0.0;P;N;AMARELO
+0164.jpg;8.055092699358887;3.0834036064996093;0.745231252754425;T4;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0164.jpg;S;N;0.0;P;N;AMARELO
+Imagem estimada;40.507716725296866;-0.0936089292695315;0.23351750962678886;T6;Espaço original;---;S;N;0.0;E;S;AMARELO
+0163.jpg;13.528746193760522;11.000600192464683;-1.4084630029400427;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0163.jpg;N;N;0.0;P;S;AZUL
+0165.jpg;3.264561348639587;2.5218125635846635;4.491413389357389;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0165.jpg;N;N;0.0;P;S;AZUL
+0921.jpg;0.8664753171485933;-11.393730403030236;-1.1881634756730746;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0921.jpg;N;N;0.0;P;S;AZUL
+0922.jpg;-4.939461489184986;-9.876794726805132;-2.5675980999932073;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0922.jpg;N;N;0.0;P;S;AZUL
+0592.jpg;-8.843885530128688;6.698134414783103;-3.6187420442637164;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0592.jpg;N;N;0.0;P;S;AZUL
+0923.jpg;-9.060234835322978;-14.050031236804342;1.6905125871968876;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0923.jpg;N;N;0.0;P;S;AZUL
+0063.jpg;-15.306628244673583;4.299605289474967;0.48029570473992245;T6;roseval;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/0063.jpg;N;N;0.0;P;S;AZUL
