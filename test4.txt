@@ -1,5 +1,5 @@
-covid-19-pneumonia-58-prior.jpg;-121.7625166171649;-21.388334945536215;49.09436429453622;T1;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-prior.jpg;S;N;0.0;P;N;AMARELO
-covid-19-pneumonia-58-day-3.jpg;-114.2054481475426;-26.90777403100584;-43.65082359810985;T3;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-3.jpg;S;N;0.0;P;N;AMARELO
-covid-19-pneumonia-58-day-9.jpg;22.266208732898097;48.60533311386367;-27.09937939263703;T9;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-9.jpg;S;N;0.0;P;N;AMARELO
-Imagem estimada;61.92168386148038;74.70236711543616;18.816638899962868;T10;Espaço original;---;S;N;0.0;E;S;AMARELO
-covid-19-pneumonia-58-day-10.jpg;151.78007217032902;-75.01159125275775;2.8391997962477635;T10;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-10.jpg;N;N;0.0;P;S;AZUL
+covid-19-pneumonia-58-prior.jpg;-12.17625166171649;-2.1388334945536215;4.909436429453622;T1;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-prior.jpg;S;N;0.0;P;N;AZUL
+covid-19-pneumonia-58-day-3.jpg;-11.42054481475426;-2.690777403100584;-4.365082359810985;T3;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-3.jpg;S;N;0.0;P;N;AZUL
+covid-19-pneumonia-58-day-9.jpg;2.2266208732898097;4.860533311386367;-2.709937939263703;T9;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-9.jpg;S;N;0.0;P;N;AMARELO
+Imagem estimada;61.92168386148038;74.70236711543616;18.816638899962868;T10;EspaÃ§o original;---;S;N;0.0;E;S;AMARELO
+covid-19-pneumonia-58-day-10.jpg;15.178007217032902;-7.501159125275775;0.28391997962477635;T10;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-10.jpg;N;N;0.0;P;S;AZUL
