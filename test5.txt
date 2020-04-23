@@ -1,5 +1,5 @@
 obj1__5.png;-15.3534639613811;-1.585288063935273;1.4329176437772966;T5;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__5.png;S;N;0.0;P;N;AMARELO
-obj1__10.png;-12.192070341450757;1.9663061700610582;1.0425503263497997;T10;COVID-19;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-10.jpg;S;N;0.0;P;N;AMARELO
+covid-19-pneumonia-58-day-10.jpg;-12.192070341450757;1.9663061700610582;1.0425503263497997;T10;COVID-19;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/covid-19-pneumonia-58-day-10.jpg;S;N;0.0;P;N;AMARELO
 Imagem estimada;7.815754384932282;1.78;3.218988379583096;T45;Espaço original;---;S;N;0.0;E;S;AMARELO
 obj1__25.png;-0.8502160959353674;0.4652564406336085;-5.4354000869381025;T45;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__25.png;N;N;0.0;P;S;AZUL
 obj1__45.png;7.444749303032403;-2.039091733660701;-3.4766884118718635;T45;COVIDO;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__45.png;N;N;0.0;P;S;AZUL
