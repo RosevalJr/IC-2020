@@ -1,0 +1,11 @@
+obj2__0.png;-7.969128342402128;-5.91281389240381;-8.295324807597352;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__0.png;S;N;0.0;P;N;AMARELO
+obj2__355.png;4.814442166886667;-9.711907797853787;-11.385980694672703;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__355.png;N;N;16.1245154965971;P;N;AZUL
+obj2__5.png;-20.339751185671066;2.2246951612121197;-5.2181945412771364;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__5.png;N;N;17.635192088548397;P;N;AZUL
+obj2__350.png;3.2734252027889923;6.887054873780891;-12.657754089113187;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__350.png;N;N;24.228082879171435;P;N;AZUL
+obj2__340.png;10.10218563651689;8.150742708447915;2.5984513277586188;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__340.png;N;N;28.30194339616981;P;N;AZUL
+obj2__335.png;15.697865561306603;0.9094442004557795;6.792114252213586;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__335.png;N;N;30.066592756745816;P;N;AZUL
+obj2__10.png;-23.067260966650235;-13.793017633734168;13.430829751308059;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__10.png;N;N;30.298514815086232;P;N;AZUL
+obj2__345.png;12.105866179027178;-24.430344285616684;0.2321565933680062;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__345.png;N;N;31.496031496047245;P;N;AZUL
+obj2__15.png;-25.686638816893232;16.22569843035481;1.7944575119222415;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__15.png;N;N;31.606961258558215;P;N;AZUL
+obj2__330.png;12.444949558463778;6.821830673442864;14.964266163444227;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__330.png;N;N;35.21363372331802;P;N;AZUL
+obj2__325.png;18.624045006626563;12.628617561914083;-2.2550214673543727;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj2__325.png;N;N;35.397740040855716;P;N;AZUL
