@@ -1,6 +1,0 @@
-obj1__0.png;0.21665969516374187;-3.2068633509726263;1.5740601956588143;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__0.png;S;N;0.0;P;N;AMARELO
-obj1__355.png;-2.8535860505014448;-2.206069891592173;0.9512642086404051;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__355.png;N;N;4.242640687119285;P;N;AZUL
-obj1__5.png;4.813973096335012;-1.869172139800078;0.8209936498120979;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__5.png;N;N;5.656854249492381;P;N;AZUL
-obj1__10.png;4.225239208685948;0.6062012551905477;-3.0860180769370746;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__10.png;N;N;7.3484692283495345;P;N;AZUL
-obj1__350.png;-6.415498597657119;-0.1163810986182478;-1.7832254277472017;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__350.png;N;N;8.306623862918075;P;N;AZUL
-obj1__195.png;0.013212647973862287;6.792285225792577;1.5229254505729604;T0;coil-100;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/obj1__195.png;N;N;10.099504938362077;P;N;AZUL
