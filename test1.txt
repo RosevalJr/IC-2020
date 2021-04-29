@@ -35,7 +35,7 @@
 1_r150.png;9.520124673094937;-36.874486149142;4.357817724691631;T150;Cuboides;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
 1_r160.png;0.6996882899975964;-25.540926409063584;1.447040902816407;T160;Cuboides;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
 1_r170.png;-3.785472188182987;-25.597748726815926;-4.464412875575375;T170;Cuboides;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
-1_r180.png;-10.117249018895667;-23.23958105648914;-9.606939502956392;T180;Cuboides;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
+1_r180.png;-10.117249018895667;-23.23958105648914;-9.606939502956392;T180;Cuboides;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/white.png;N;N;0.0;P;N;VERMELHO
 10_r0.png;-45.05935333579998;-4.349717715618428;10.877745905412105;T0;Esferas;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
 10_r10.png;-46.00467781414426;-5.838933781567941;13.397551187451889;T10;Esferas;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
 10_r20.png;-46.51896239791635;-9.895178639695638;14.387351344606104;T20;Esferas;https://raw.githubusercontent.com/RosevalJr/IC-2020/master/110_r180.png;N;N;0.0;P;N;VERMELHO
